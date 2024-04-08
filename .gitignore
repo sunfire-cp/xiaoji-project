@@ -1,0 +1,8 @@
+/node_modules
+.DS_Store
+public/
+/logs/ssrProjectDemo/egg-schedule.log.2018-05-17
+/logs/egg-web.log.2018-05-17
+/logs/ssrProjectDemo-web.log.2018-05-17
+/logs/common-error.log.2018-05-17
+/logs/egg-agent.log.2018-05-17

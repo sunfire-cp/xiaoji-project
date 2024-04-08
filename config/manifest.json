@@ -1,0 +1,226 @@
+{
+  "resource/list.js": "/public/js/resource/list.js",
+  "resource/list.css": "/public/css/resource/list.css",
+  "resource/edit.js": "/public/js/resource/edit.js",
+  "resource/edit.css": "/public/css/resource/edit.css",
+  "resource/add.js": "/public/js/resource/add.js",
+  "resource/add.css": "/public/css/resource/add.css",
+  "category/list.js": "/public/js/category/list.js",
+  "category/list.css": "/public/css/category/list.css",
+  "tag/list.js": "/public/js/tag/list.js",
+  "tag/list.css": "/public/css/tag/list.css",
+  "user/list.js": "/public/js/user/list.js",
+  "user/list.css": "/public/css/user/list.css",
+  "category/edit.js": "/public/js/category/edit.js",
+  "category/edit.css": "/public/css/category/edit.css",
+  "tag/add.js": "/public/js/tag/add.js",
+  "tag/add.css": "/public/css/tag/add.css",
+  "home/home.js": "/public/js/home/home.js",
+  "home/home.css": "/public/css/home/home.css",
+  "tag/edit.js": "/public/js/tag/edit.js",
+  "tag/edit.css": "/public/css/tag/edit.css",
+  "user/add.js": "/public/js/user/add.js",
+  "user/add.css": "/public/css/user/add.css",
+  "user/edit.js": "/public/js/user/edit.js",
+  "user/edit.css": "/public/css/user/edit.css",
+  "category/add.js": "/public/js/category/add.js",
+  "category/add.css": "/public/css/category/add.css",
+  "home/star.js": "/public/js/home/star.js",
+  "home/star.css": "/public/css/home/star.css",
+  "user/login.js": "/public/js/user/login.js",
+  "user/login.css": "/public/css/user/login.css",
+  "user/forget.js": "/public/js/user/forget.js",
+  "user/forget.css": "/public/css/user/forget.css",
+  "layout.js": "/public/js/layout.js",
+  "common.js": "/public/js/common.js",
+  "vendor.js": "/public/js/vendor.js",
+  "deps": {
+    "resource/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/resource/list.js"
+      ],
+      "css": [
+        "/public/css/resource/list.css"
+      ]
+    },
+    "resource/edit.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/resource/edit.js"
+      ],
+      "css": [
+        "/public/css/resource/edit.css"
+      ]
+    },
+    "resource/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/resource/add.js"
+      ],
+      "css": [
+        "/public/css/resource/add.css"
+      ]
+    },
+    "category/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/category/list.js"
+      ],
+      "css": [
+        "/public/css/category/list.css"
+      ]
+    },
+    "tag/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/tag/list.js"
+      ],
+      "css": [
+        "/public/css/tag/list.css"
+      ]
+    },
+    "user/list.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/list.js"
+      ],
+      "css": [
+        "/public/css/user/list.css"
+      ]
+    },
+    "category/edit.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/category/edit.js"
+      ],
+      "css": [
+        "/public/css/category/edit.css"
+      ]
+    },
+    "tag/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/tag/add.js"
+      ],
+      "css": [
+        "/public/css/tag/add.css"
+      ]
+    },
+    "home/home.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/home/home.js"
+      ],
+      "css": [
+        "/public/css/home/home.css"
+      ]
+    },
+    "tag/edit.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/tag/edit.js"
+      ],
+      "css": [
+        "/public/css/tag/edit.css"
+      ]
+    },
+    "user/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/add.js"
+      ],
+      "css": [
+        "/public/css/user/add.css"
+      ]
+    },
+    "user/edit.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/edit.js"
+      ],
+      "css": [
+        "/public/css/user/edit.css"
+      ]
+    },
+    "category/add.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/category/add.js"
+      ],
+      "css": [
+        "/public/css/category/add.css"
+      ]
+    },
+    "home/star.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/home/star.js"
+      ],
+      "css": [
+        "/public/css/home/star.css"
+      ]
+    },
+    "user/login.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/login.js"
+      ],
+      "css": [
+        "/public/css/user/login.css"
+      ]
+    },
+    "user/forget.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/user/forget.js"
+      ],
+      "css": [
+        "/public/css/user/forget.css"
+      ]
+    },
+    "layout.js": {
+      "js": [
+        "/public/js/vendor.js",
+        "/public/js/common.js",
+        "/public/js/layout.js"
+      ],
+      "css": []
+    },
+    "common.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/common.js"
+      ],
+      "css": []
+    },
+    "vendor.js": {
+      "js": [
+        "/public/js/common.js",
+        "/public/js/vendor.js"
+      ],
+      "css": []
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}
